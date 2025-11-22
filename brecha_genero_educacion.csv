@@ -1,0 +1,169 @@
+pais,region,brecha_primaria,brecha_secundaria_baja,brecha_secundaria_alta
+Lesotho,Sub Saharan Africa,23.00,22.00,10.00
+Rwanda,Sub Saharan Africa,13.00,5.00,-3.00
+Bangladesh,Asia,13.00,12.00,-5.00
+Namibia,Sub Saharan Africa,11.00,14.00,6.00
+Cambodia,Asia,11.00,-2.00,0.00
+Suriname,Latin America,10.00,17.00,8.00
+Gabon,Sub Saharan Africa,9.00,1.00,0.00
+Malawi,Sub Saharan Africa,9.00,-2.00,-2.00
+Haiti,Caribbean,9.00,6.00,-1.00
+Madagascar,Sub Saharan Africa,8.00,1.00,-1.00
+Burundi,Sub Saharan Africa,8.00,-7.00,-1.00
+Zimbabwe,Sub Saharan Africa,6.00,8.00,-3.00
+Philippines,Asia,6.00,13.00,9.00
+Honduras,Latin America,6.00,6.00,6.00
+Senegal,Sub Saharan Africa,6.00,3.00,-1.00
+Dominican Republic,Caribbean,6.00,13.00,18.00
+El Salvador,Latin America,5.00,1.00,2.00
+Kenya,Sub Saharan Africa,5.00,8.00,-6.00
+Colombia,Latin America,4.00,7.00,9.00
+Uganda,Sub Saharan Africa,4.00,-4.00,-3.00
+Kiribati,Asia,4.00,19.00,7.00
+Ghana,Sub Saharan Africa,4.00,5.00,-3.00
+Bhutan,Asia,4.00,-3.00,-7.00
+South Africa,Sub Saharan Africa,3.00,6.00,7.00
+Argentina,Latin America,3.00,9.00,7.00
+Tunisia,NorthAfrica,3.00,12.00,17.00
+Paraguay,Latin America,3.00,-2.00,7.00
+Guyana,Latin America,3.00,8.00,15.00
+Montenegro,Europe,3.00,4.00,7.00
+Botswana,Sub Saharan Africa,3.00,0.00,11.00
+Nepal,Asia,2.00,4.00,1.00
+Zambia,Sub Saharan Africa,2.00,-4.00,-6.00
+Sierra Leone,Sub Saharan Africa,2.00,-5.00,-9.00
+Brazil,Latin America,2.00,8.00,10.00
+Comoros,Sub Saharan Africa,2.00,-2.00,8.00
+Uruguay,Latin America,2.00,7.00,-19.00
+Mongolia,Asia,2.00,6.00,13.00
+Albania,Europe,2.00,-1.00,4.00
+Bosnia and Herzegovina,Europe,1.00,0.00,0.00
+Tonga,Pacific,1.00,11.00,11.00
+Jamaica,Caribbean,1.00,0.00,3.00
+Egypt,NorthAfrica,1.00,2.00,-2.00
+Panama,Latin America,1.00,6.00,11.00
+Indonesia,Asia,1.00,-5.00,-3.00
+Costa Rica,Latin America,1.00,6.00,4.00
+Thailand,Asia,1.00,11.00,13.00
+Ethiopia,Sub Saharan Africa,1.00,3.00,3.00
+Chile,Latin America,1.00,3.00,5.00
+Kyrgyzstan,Asia,1.00,0.00,-4.00
+Vietnam,Asia,1.00,6.00,11.00
+Belize,Latin America,1.00,11.00,3.00
+Jordan,Asia,1.00,2.00,14.00
+Mexico,Latin America,0.00,3.00,4.00
+Moldova,Europe,0.00,3.00,8.00
+Monaco,Europe,0.00,0.00,0.00
+Morocco,NorthAfrica,0.00,0.00,0.00
+Romania,Europe,0.00,0.00,0.00
+Australia,Australia,0.00,0.00,0.00
+Algeria,NorthAfrica,0.00,16.00,15.00
+Andorra,Europe,0.00,0.00,0.00
+Austria,Europe,0.00,0.00,0.00
+Antigua and Barbuda,Caribbean,0.00,0.00,0.00
+Armenia,Asia,0.00,4.00,10.00
+Azerbaijan,Asia,0.00,0.00,0.00
+Bahrain,Asia,0.00,0.00,0.00
+Barbados,Caribbean,0.00,0.00,6.00
+Belgium,Europe,0.00,0.00,0.00
+Bolivia,Latin America,0.00,0.00,0.00
+Brunei,Asia,0.00,0.00,0.00
+Cape Verde,Sub Saharan Africa,0.00,0.00,0.00
+Bulgaria,Europe,0.00,0.00,0.00
+Canada,North America,0.00,0.00,0.00
+China,Asia,0.00,0.00,4.00
+Djibouti,Sub Saharan Africa,0.00,0.00,0.00
+Croatia,Europe,0.00,0.00,0.00
+Dominica,Caribbean,0.00,0.00,0.00
+Israel,Asia,0.00,0.00,0.00
+Cyprus,Asia,0.00,0.00,0.00
+Italy,Europe,0.00,0.00,0.00
+Czech Republic,Europe,0.00,0.00,0.00
+Georgia,Asia,0.00,0.00,4.00
+Denmark,Europe,0.00,0.00,0.00
+Ecuador,Latin America,0.00,3.00,1.00
+Estonia,Europe,0.00,0.00,0.00
+Equatorial Guinea,Sub Saharan Africa,0.00,0.00,0.00
+Eritrea,Sub Saharan Africa,0.00,0.00,0.00
+Fiji,Asia,0.00,0.00,0.00
+Finland,Europe,0.00,0.00,0.00
+France,Europe,0.00,0.00,0.00
+Germany,Europe,0.00,0.00,0.00
+Greece,Europe,0.00,0.00,0.00
+Grenada,Caribbean,0.00,0.00,0.00
+Hungary,Europe,0.00,0.00,0.00
+Iceland,Europe,0.00,0.00,0.00
+Iran,Asia,0.00,0.00,0.00
+Japan,Asia,0.00,0.00,0.00
+Kazakhstan,Asia,0.00,0.00,1.00
+Libya,NorthAfrica,0.00,0.00,0.00
+Latvia,Europe,0.00,0.00,0.00
+Lebanon,Asia,0.00,0.00,0.00
+Kuwait,Asia,0.00,0.00,0.00
+Liechtenstein,Europe,0.00,0.00,0.00
+Lithuania,Europe,0.00,0.00,0.00
+Luxembourg,Europe,0.00,0.00,0.00
+Malaysia,Asia,0.00,0.00,0.00
+Maldives,Pacific,0.00,0.00,0.00
+Malta,Pacific,0.00,0.00,0.00
+Mauritius,Sub Saharan Africa,0.00,0.00,0.00
+Peru,Latin America,0.00,0.00,-6.00
+Portugal,Europe,0.00,0.00,0.00
+Qatar,Asia,0.00,0.00,0.00
+Russia,Europe,0.00,0.00,0.00
+San Marino,Europe,0.00,0.00,0.00
+Saudi Arabia,Asia,0.00,0.00,0.00
+Singapore,Pacific,0.00,0.00,0.00
+Seychelles,Sub Saharan Africa,0.00,0.00,0.00
+Slovakia,Europe,0.00,0.00,0.00
+Slovenia,Europe,0.00,0.00,0.00
+Sri Lanka,Asia,0.00,2.00,11.00
+Solomon Islands,Asia,0.00,0.00,0.00
+Somalia,Sub Saharan Africa,0.00,0.00,0.00
+Spain,Europe,0.00,0.00,0.00
+Sweden,Europe,0.00,0.00,0.00
+Switzerland,Europe,0.00,0.00,0.00
+Syria,Asia,0.00,0.00,0.00
+Trinidad and Tobago,Caribbean,0.00,0.00,0.00
+Turkmenistan,Asia,0.00,1.00,2.00
+Turks and Caicos Islands,Caribbean,0.00,0.00,0.00
+United Arab Emirates,Asia,0.00,0.00,0.00
+United Kingdom,Europe,0.00,0.00,0.00
+United States,North America,0.00,0.00,0.00
+Uzbekistan,Asia,0.00,0.00,0.00
+Vanuatu,Asia,0.00,0.00,0.00
+Venezuela,Latin America,0.00,0.00,0.00
+Norway,Europe,0.00,0.00,0.00
+Netherlands,Europe,0.00,0.00,0.00
+New Zealand,Australia,0.00,0.00,0.00
+Nicaragua,Latin America,0.00,0.00,0.00
+Nigeria,Sub Saharan Africa,0.00,-7.00,-13.00
+Oman,Asia,0.00,0.00,0.00
+Papua New Guinea,Asia,0.00,0.00,0.00
+Poland,Europe,0.00,0.00,0.00
+Ukraine,Europe,-1.00,0.00,0.00
+Turkey,Asia,-1.00,-4.00,-7.00
+Cameroon,Sub Saharan Africa,-1.00,-9.00,-5.00
+Tajikistan,Asia,-1.00,-2.00,-17.00
+Laos,Asia,-1.00,-1.00,-1.00
+India,Asia,-1.00,-3.00,-6.00
+Cuba,Caribbean,-2.00,3.00,1.00
+Sudan,Sub Saharan Africa,-2.00,3.00,-5.00
+Burkina Faso,Sub Saharan Africa,-3.00,-7.00,-4.00
+Liberia,Sub Saharan Africa,-3.00,-6.00,-9.00
+Guatemala,Latin America,-4.00,-7.00,-2.00
+Mozambique,Sub Saharan Africa,-5.00,-4.00,-3.00
+Iraq,Asia,-5.00,1.00,-2.00
+Angola,Sub Saharan Africa,-6.00,-10.00,-9.00
+Chad,Sub Saharan Africa,-7.00,-8.00,-9.00
+Benin,Sub Saharan Africa,-7.00,-12.00,-7.00
+Ivory Coast,Sub Saharan Africa,-7.00,-14.00,-2.00
+Togo,Sub Saharan Africa,-7.00,-16.00,-19.00
+Pakistan,Asia,-9.00,-10.00,-1.00
+Mali,Sub Saharan Africa,-9.00,-11.00,-11.00
+Mauritania,Sub Saharan Africa,-10.00,-13.00,-8.00
+Niger,Sub Saharan Africa,-11.00,-6.00,-3.00
+Guinea,Sub Saharan Africa,-13.00,-13.00,-9.00
+Yemen,Asia,-15.00,-16.00,-14.00
+Central African Republic,Sub Saharan Africa,-21.00,-8.00,-2.00
+Afghanistan,Asia,-27.00,-23.00,-18.00

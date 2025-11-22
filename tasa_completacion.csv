@@ -1,0 +1,6 @@
+id,pais_id,completion_rate_primary_male,completion_rate_primary_female,completion_rate_lower_secondary_male,completion_rate_lower_secondary_female,completion_rate_upper_secondary_male,completion_rate_upper_secondary_female
+1,1,67,40,49,26,32,14
+2,2,94,96,98,97,76,80
+3,3,93,93,49,65,22,37
+4,4,0,0,0,0,0,0
+5,5,63,57,42,32,24,15

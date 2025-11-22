@@ -1,0 +1,6 @@
+id,pais_id,oosr_preqprimary_age_male,oosr_preqprimary_age_female,oosr_primary_age_female,oosr_primary_age_male,oosr_lower_secondary_age_male,oosr_lower_secondary_age_female,oosr_upper_secondary_age_male,oosr_upper_secondary_age_female
+1,1,0,0,0,0,0,0,44,69
+2,2,4,2,3,6,6,1,21,15
+3,3,0,0,0,0,0,0,0,0
+4,4,0,0,0,0,0,0,0,0
+5,5,31,39,0,0,0,0,0,0
